@@ -176,8 +176,7 @@ The project generates:
 
 ## 👨‍💻 Author
 
-**Bharath**
-Aspiring Data Analyst | AI & Data Science Enthusiast
+**Bharath B R**
 
 ---
 
