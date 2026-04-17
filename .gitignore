@@ -1,0 +1,73 @@
+# 🔹 Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual Environment
+
+venv/
+env/
+ENV/
+
+# 🔹 Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# 🔹 OS Files
+
+.DS_Store
+Thumbs.db
+
+# 🔹 VS Code
+
+.vscode/
+
+# 🔹 PyCharm
+
+.idea/
+
+# 🔹 Environment Variables
+
+.env
+
+# 🔹 Logs
+
+*.log
+
+# 🔹 Temporary files
+
+*.tmp
+*.swp
+
+# 🔹 Data Files (optional)
+
+# Uncomment if you don't want to upload datasets
+
+# data/*.csv
+
+# 🔹 Outputs (IMPORTANT)
+
+# Don't push generated outputs
+
+outputs/
+
+# 🔹 Streamlit cache
+
+.streamlit/
+
+# 🔹 Mac system files
+
+.AppleDouble
+.LSOverride
+
+# 🔹 Python build files
+
+build/
+dist/
+*.egg-info/
+
+# 🔹 Coverage reports
+
+.coverage
+htmlcov/

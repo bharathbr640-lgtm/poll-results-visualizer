@@ -1,0 +1,628 @@
+respondent_id,region,question,option
+Finland_0,Unknown,How happy are people in your country?,Very Happy
+Denmark_1,Unknown,How happy are people in your country?,Very Happy
+Norway_2,Unknown,How happy are people in your country?,Very Happy
+Iceland_3,Unknown,How happy are people in your country?,Very Happy
+Netherlands_4,Unknown,How happy are people in your country?,Very Happy
+Switzerland_5,Unknown,How happy are people in your country?,Very Happy
+Sweden_6,Unknown,How happy are people in your country?,Very Happy
+New Zealand_7,Unknown,How happy are people in your country?,Very Happy
+Canada_8,Unknown,How happy are people in your country?,Very Happy
+Austria_9,Unknown,How happy are people in your country?,Very Happy
+Australia_10,Unknown,How happy are people in your country?,Very Happy
+Costa Rica_11,Unknown,How happy are people in your country?,Very Happy
+Israel_12,Unknown,How happy are people in your country?,Very Happy
+Luxembourg_13,Unknown,How happy are people in your country?,Very Happy
+United Kingdom_14,Unknown,How happy are people in your country?,Very Happy
+Ireland_15,Unknown,How happy are people in your country?,Very Happy
+Germany_16,Unknown,How happy are people in your country?,Happy
+Belgium_17,Unknown,How happy are people in your country?,Happy
+United States_18,Unknown,How happy are people in your country?,Happy
+Czech Republic_19,Unknown,How happy are people in your country?,Happy
+United Arab Emirates_20,Unknown,How happy are people in your country?,Happy
+Malta_21,Unknown,How happy are people in your country?,Happy
+Mexico_22,Unknown,How happy are people in your country?,Happy
+France_23,Unknown,How happy are people in your country?,Happy
+Taiwan_24,Unknown,How happy are people in your country?,Happy
+Chile_25,Unknown,How happy are people in your country?,Happy
+Guatemala_26,Unknown,How happy are people in your country?,Happy
+Saudi Arabia_27,Unknown,How happy are people in your country?,Happy
+Qatar_28,Unknown,How happy are people in your country?,Happy
+Spain_29,Unknown,How happy are people in your country?,Happy
+Panama_30,Unknown,How happy are people in your country?,Happy
+Brazil_31,Unknown,How happy are people in your country?,Happy
+Uruguay_32,Unknown,How happy are people in your country?,Happy
+Singapore_33,Unknown,How happy are people in your country?,Happy
+El Salvador_34,Unknown,How happy are people in your country?,Happy
+Italy_35,Unknown,How happy are people in your country?,Happy
+Bahrain_36,Unknown,How happy are people in your country?,Happy
+Slovakia_37,Unknown,How happy are people in your country?,Happy
+Trinidad & Tobago_38,Unknown,How happy are people in your country?,Happy
+Poland_39,Unknown,How happy are people in your country?,Happy
+Uzbekistan_40,Unknown,How happy are people in your country?,Happy
+Lithuania_41,Unknown,How happy are people in your country?,Happy
+Colombia_42,Unknown,How happy are people in your country?,Happy
+Slovenia_43,Unknown,How happy are people in your country?,Happy
+Nicaragua_44,Unknown,How happy are people in your country?,Happy
+Kosovo_45,Unknown,How happy are people in your country?,Happy
+Argentina_46,Unknown,How happy are people in your country?,Happy
+Romania_47,Unknown,How happy are people in your country?,Happy
+Cyprus_48,Unknown,How happy are people in your country?,Happy
+Ecuador_49,Unknown,How happy are people in your country?,Happy
+Kuwait_50,Unknown,How happy are people in your country?,Happy
+Thailand_51,Unknown,How happy are people in your country?,Happy
+Latvia_52,Unknown,How happy are people in your country?,Neutral
+South Korea_53,Unknown,How happy are people in your country?,Neutral
+Estonia_54,Unknown,How happy are people in your country?,Neutral
+Jamaica_55,Unknown,How happy are people in your country?,Neutral
+Mauritius_56,Unknown,How happy are people in your country?,Neutral
+Japan_57,Unknown,How happy are people in your country?,Neutral
+Honduras_58,Unknown,How happy are people in your country?,Neutral
+Kazakhstan_59,Unknown,How happy are people in your country?,Neutral
+Bolivia_60,Unknown,How happy are people in your country?,Neutral
+Hungary_61,Unknown,How happy are people in your country?,Neutral
+Paraguay_62,Unknown,How happy are people in your country?,Neutral
+Northern Cyprus_63,Unknown,How happy are people in your country?,Neutral
+Peru_64,Unknown,How happy are people in your country?,Neutral
+Portugal_65,Unknown,How happy are people in your country?,Neutral
+Pakistan_66,Unknown,How happy are people in your country?,Neutral
+Russia_67,Unknown,How happy are people in your country?,Neutral
+Philippines_68,Unknown,How happy are people in your country?,Neutral
+Serbia_69,Unknown,How happy are people in your country?,Neutral
+Moldova_70,Unknown,How happy are people in your country?,Neutral
+Libya_71,Unknown,How happy are people in your country?,Neutral
+Montenegro_72,Unknown,How happy are people in your country?,Neutral
+Tajikistan_73,Unknown,How happy are people in your country?,Neutral
+Croatia_74,Unknown,How happy are people in your country?,Neutral
+Hong Kong_75,Unknown,How happy are people in your country?,Neutral
+Dominican Republic_76,Unknown,How happy are people in your country?,Neutral
+Bosnia and Herzegovina_77,Unknown,How happy are people in your country?,Neutral
+Turkey_78,Unknown,How happy are people in your country?,Neutral
+Malaysia_79,Unknown,How happy are people in your country?,Neutral
+Belarus_80,Unknown,How happy are people in your country?,Neutral
+Greece_81,Unknown,How happy are people in your country?,Neutral
+Mongolia_82,Unknown,How happy are people in your country?,Neutral
+North Macedonia_83,Unknown,How happy are people in your country?,Neutral
+Nigeria_84,Unknown,How happy are people in your country?,Neutral
+Kyrgyzstan_85,Unknown,How happy are people in your country?,Neutral
+Turkmenistan_86,Unknown,How happy are people in your country?,Neutral
+Algeria_87,Unknown,How happy are people in your country?,Neutral
+Morocco_88,Unknown,How happy are people in your country?,Neutral
+Azerbaijan_89,Unknown,How happy are people in your country?,Neutral
+Lebanon_90,Unknown,How happy are people in your country?,Neutral
+Indonesia_91,Unknown,How happy are people in your country?,Neutral
+China_92,Unknown,How happy are people in your country?,Neutral
+Vietnam_93,Unknown,How happy are people in your country?,Neutral
+Bhutan_94,Unknown,How happy are people in your country?,Neutral
+Cameroon_95,Unknown,How happy are people in your country?,Neutral
+Bulgaria_96,Unknown,How happy are people in your country?,Neutral
+Ghana_97,Unknown,How happy are people in your country?,Unhappy
+Ivory Coast_98,Unknown,How happy are people in your country?,Unhappy
+Nepal_99,Unknown,How happy are people in your country?,Unhappy
+Jordan_100,Unknown,How happy are people in your country?,Unhappy
+Benin_101,Unknown,How happy are people in your country?,Unhappy
+Congo (Brazzaville)_102,Unknown,How happy are people in your country?,Unhappy
+Gabon_103,Unknown,How happy are people in your country?,Unhappy
+Laos_104,Unknown,How happy are people in your country?,Unhappy
+South Africa_105,Unknown,How happy are people in your country?,Unhappy
+Albania_106,Unknown,How happy are people in your country?,Unhappy
+Venezuela_107,Unknown,How happy are people in your country?,Unhappy
+Cambodia_108,Unknown,How happy are people in your country?,Unhappy
+Palestinian Territories_109,Unknown,How happy are people in your country?,Unhappy
+Senegal_110,Unknown,How happy are people in your country?,Unhappy
+Somalia_111,Unknown,How happy are people in your country?,Unhappy
+Namibia_112,Unknown,How happy are people in your country?,Unhappy
+Niger_113,Unknown,How happy are people in your country?,Unhappy
+Burkina Faso_114,Unknown,How happy are people in your country?,Unhappy
+Armenia_115,Unknown,How happy are people in your country?,Unhappy
+Iran_116,Unknown,How happy are people in your country?,Unhappy
+Guinea_117,Unknown,How happy are people in your country?,Unhappy
+Georgia_118,Unknown,How happy are people in your country?,Unhappy
+Gambia_119,Unknown,How happy are people in your country?,Unhappy
+Kenya_120,Unknown,How happy are people in your country?,Unhappy
+Mauritania_121,Unknown,How happy are people in your country?,Unhappy
+Mozambique_122,Unknown,How happy are people in your country?,Unhappy
+Tunisia_123,Unknown,How happy are people in your country?,Unhappy
+Bangladesh_124,Unknown,How happy are people in your country?,Unhappy
+Iraq_125,Unknown,How happy are people in your country?,Unhappy
+Congo (Kinshasa)_126,Unknown,How happy are people in your country?,Unhappy
+Mali_127,Unknown,How happy are people in your country?,Unhappy
+Sierra Leone_128,Unknown,How happy are people in your country?,Unhappy
+Sri Lanka_129,Unknown,How happy are people in your country?,Unhappy
+Myanmar_130,Unknown,How happy are people in your country?,Unhappy
+Chad_131,Unknown,How happy are people in your country?,Unhappy
+Ukraine_132,Unknown,How happy are people in your country?,Unhappy
+Ethiopia_133,Unknown,How happy are people in your country?,Unhappy
+Swaziland_134,Unknown,How happy are people in your country?,Unhappy
+Uganda_135,Unknown,How happy are people in your country?,Unhappy
+Egypt_136,Unknown,How happy are people in your country?,Unhappy
+Zambia_137,Unknown,How happy are people in your country?,Unhappy
+Togo_138,Unknown,How happy are people in your country?,Unhappy
+India_139,Unknown,How happy are people in your country?,Unhappy
+Liberia_140,Unknown,How happy are people in your country?,Unhappy
+Comoros_141,Unknown,How happy are people in your country?,Unhappy
+Madagascar_142,Unknown,How happy are people in your country?,Unhappy
+Lesotho_143,Unknown,How happy are people in your country?,Unhappy
+Burundi_144,Unknown,How happy are people in your country?,Unhappy
+Zimbabwe_145,Unknown,How happy are people in your country?,Unhappy
+Haiti_146,Unknown,How happy are people in your country?,Unhappy
+Botswana_147,Unknown,How happy are people in your country?,Unhappy
+Syria_148,Unknown,How happy are people in your country?,Unhappy
+Malawi_149,Unknown,How happy are people in your country?,Unhappy
+Yemen_150,Unknown,How happy are people in your country?,Unhappy
+Rwanda_151,Unknown,How happy are people in your country?,Unhappy
+Tanzania_152,Unknown,How happy are people in your country?,Unhappy
+Afghanistan_153,Unknown,How happy are people in your country?,Unhappy
+Central African Republic_154,Unknown,How happy are people in your country?,Unhappy
+South Sudan_155,Unknown,How happy are people in your country?,Unhappy
+Finland_0,Unknown,How happy are people in your country?,Very Happy
+Norway_1,Unknown,How happy are people in your country?,Very Happy
+Denmark_2,Unknown,How happy are people in your country?,Very Happy
+Iceland_3,Unknown,How happy are people in your country?,Very Happy
+Switzerland_4,Unknown,How happy are people in your country?,Very Happy
+Netherlands_5,Unknown,How happy are people in your country?,Very Happy
+Canada_6,Unknown,How happy are people in your country?,Very Happy
+New Zealand_7,Unknown,How happy are people in your country?,Very Happy
+Sweden_8,Unknown,How happy are people in your country?,Very Happy
+Australia_9,Unknown,How happy are people in your country?,Very Happy
+United Kingdom_10,Unknown,How happy are people in your country?,Very Happy
+Austria_11,Unknown,How happy are people in your country?,Very Happy
+Costa Rica_12,Unknown,How happy are people in your country?,Very Happy
+Ireland_13,Unknown,How happy are people in your country?,Happy
+Germany_14,Unknown,How happy are people in your country?,Happy
+Belgium_15,Unknown,How happy are people in your country?,Happy
+Luxembourg_16,Unknown,How happy are people in your country?,Happy
+United States_17,Unknown,How happy are people in your country?,Happy
+Israel_18,Unknown,How happy are people in your country?,Happy
+United Arab Emirates_19,Unknown,How happy are people in your country?,Happy
+Czech Republic_20,Unknown,How happy are people in your country?,Happy
+Malta_21,Unknown,How happy are people in your country?,Happy
+France_22,Unknown,How happy are people in your country?,Happy
+Mexico_23,Unknown,How happy are people in your country?,Happy
+Chile_24,Unknown,How happy are people in your country?,Happy
+Taiwan_25,Unknown,How happy are people in your country?,Happy
+Panama_26,Unknown,How happy are people in your country?,Happy
+Brazil_27,Unknown,How happy are people in your country?,Happy
+Argentina_28,Unknown,How happy are people in your country?,Happy
+Guatemala_29,Unknown,How happy are people in your country?,Happy
+Uruguay_30,Unknown,How happy are people in your country?,Happy
+Qatar_31,Unknown,How happy are people in your country?,Happy
+Saudi Arabia_32,Unknown,How happy are people in your country?,Happy
+Singapore_33,Unknown,How happy are people in your country?,Happy
+Malaysia_34,Unknown,How happy are people in your country?,Happy
+Spain_35,Unknown,How happy are people in your country?,Happy
+Colombia_36,Unknown,How happy are people in your country?,Happy
+Trinidad & Tobago_37,Unknown,How happy are people in your country?,Happy
+Slovakia_38,Unknown,How happy are people in your country?,Happy
+El Salvador_39,Unknown,How happy are people in your country?,Happy
+Nicaragua_40,Unknown,How happy are people in your country?,Happy
+Poland_41,Unknown,How happy are people in your country?,Happy
+Bahrain_42,Unknown,How happy are people in your country?,Happy
+Uzbekistan_43,Unknown,How happy are people in your country?,Happy
+Kuwait_44,Unknown,How happy are people in your country?,Happy
+Thailand_45,Unknown,How happy are people in your country?,Happy
+Italy_46,Unknown,How happy are people in your country?,Neutral
+Ecuador_47,Unknown,How happy are people in your country?,Neutral
+Belize_48,Unknown,How happy are people in your country?,Neutral
+Lithuania_49,Unknown,How happy are people in your country?,Neutral
+Slovenia_50,Unknown,How happy are people in your country?,Neutral
+Romania_51,Unknown,How happy are people in your country?,Neutral
+Latvia_52,Unknown,How happy are people in your country?,Neutral
+Japan_53,Unknown,How happy are people in your country?,Neutral
+Mauritius_54,Unknown,How happy are people in your country?,Neutral
+Jamaica_55,Unknown,How happy are people in your country?,Neutral
+South Korea_56,Unknown,How happy are people in your country?,Neutral
+Northern Cyprus_57,Unknown,How happy are people in your country?,Neutral
+Russia_58,Unknown,How happy are people in your country?,Neutral
+Kazakhstan_59,Unknown,How happy are people in your country?,Neutral
+Cyprus_60,Unknown,How happy are people in your country?,Neutral
+Bolivia_61,Unknown,How happy are people in your country?,Neutral
+Estonia_62,Unknown,How happy are people in your country?,Neutral
+Paraguay_63,Unknown,How happy are people in your country?,Neutral
+Peru_64,Unknown,How happy are people in your country?,Neutral
+Kosovo_65,Unknown,How happy are people in your country?,Neutral
+Moldova_66,Unknown,How happy are people in your country?,Neutral
+Turkmenistan_67,Unknown,How happy are people in your country?,Neutral
+Hungary_68,Unknown,How happy are people in your country?,Neutral
+Libya_69,Unknown,How happy are people in your country?,Neutral
+Philippines_70,Unknown,How happy are people in your country?,Neutral
+Honduras_71,Unknown,How happy are people in your country?,Neutral
+Belarus_72,Unknown,How happy are people in your country?,Neutral
+Turkey_73,Unknown,How happy are people in your country?,Neutral
+Pakistan_74,Unknown,How happy are people in your country?,Neutral
+Hong Kong_75,Unknown,How happy are people in your country?,Neutral
+Portugal_76,Unknown,How happy are people in your country?,Neutral
+Serbia_77,Unknown,How happy are people in your country?,Neutral
+Greece_78,Unknown,How happy are people in your country?,Neutral
+Lebanon_79,Unknown,How happy are people in your country?,Neutral
+Montenegro_80,Unknown,How happy are people in your country?,Neutral
+Croatia_81,Unknown,How happy are people in your country?,Neutral
+Dominican Republic_82,Unknown,How happy are people in your country?,Neutral
+Algeria_83,Unknown,How happy are people in your country?,Neutral
+Morocco_84,Unknown,How happy are people in your country?,Neutral
+China_85,Unknown,How happy are people in your country?,Neutral
+Azerbaijan_86,Unknown,How happy are people in your country?,Neutral
+Tajikistan_87,Unknown,How happy are people in your country?,Neutral
+Macedonia_88,Unknown,How happy are people in your country?,Neutral
+Jordan_89,Unknown,How happy are people in your country?,Neutral
+Nigeria_90,Unknown,How happy are people in your country?,Neutral
+Kyrgyzstan_91,Unknown,How happy are people in your country?,Neutral
+Bosnia and Herzegovina_92,Unknown,How happy are people in your country?,Neutral
+Mongolia_93,Unknown,How happy are people in your country?,Neutral
+Vietnam_94,Unknown,How happy are people in your country?,Neutral
+Indonesia_95,Unknown,How happy are people in your country?,Neutral
+Bhutan_96,Unknown,How happy are people in your country?,Neutral
+Somalia_97,Unknown,How happy are people in your country?,Unhappy
+Cameroon_98,Unknown,How happy are people in your country?,Unhappy
+Bulgaria_99,Unknown,How happy are people in your country?,Unhappy
+Nepal_100,Unknown,How happy are people in your country?,Unhappy
+Venezuela_101,Unknown,How happy are people in your country?,Unhappy
+Gabon_102,Unknown,How happy are people in your country?,Unhappy
+Palestinian Territories_103,Unknown,How happy are people in your country?,Unhappy
+South Africa_104,Unknown,How happy are people in your country?,Unhappy
+Iran_105,Unknown,How happy are people in your country?,Unhappy
+Ivory Coast_106,Unknown,How happy are people in your country?,Unhappy
+Ghana_107,Unknown,How happy are people in your country?,Unhappy
+Senegal_108,Unknown,How happy are people in your country?,Unhappy
+Laos_109,Unknown,How happy are people in your country?,Unhappy
+Tunisia_110,Unknown,How happy are people in your country?,Unhappy
+Albania_111,Unknown,How happy are people in your country?,Unhappy
+Sierra Leone_112,Unknown,How happy are people in your country?,Unhappy
+Congo (Brazzaville)_113,Unknown,How happy are people in your country?,Unhappy
+Bangladesh_114,Unknown,How happy are people in your country?,Unhappy
+Sri Lanka_115,Unknown,How happy are people in your country?,Unhappy
+Iraq_116,Unknown,How happy are people in your country?,Unhappy
+Mali_117,Unknown,How happy are people in your country?,Unhappy
+Namibia_118,Unknown,How happy are people in your country?,Unhappy
+Cambodia_119,Unknown,How happy are people in your country?,Unhappy
+Burkina Faso_120,Unknown,How happy are people in your country?,Unhappy
+Egypt_121,Unknown,How happy are people in your country?,Unhappy
+Mozambique_122,Unknown,How happy are people in your country?,Unhappy
+Kenya_123,Unknown,How happy are people in your country?,Unhappy
+Zambia_124,Unknown,How happy are people in your country?,Unhappy
+Mauritania_125,Unknown,How happy are people in your country?,Unhappy
+Ethiopia_126,Unknown,How happy are people in your country?,Unhappy
+Georgia_127,Unknown,How happy are people in your country?,Unhappy
+Armenia_128,Unknown,How happy are people in your country?,Unhappy
+Myanmar_129,Unknown,How happy are people in your country?,Unhappy
+Chad_130,Unknown,How happy are people in your country?,Unhappy
+Congo (Kinshasa)_131,Unknown,How happy are people in your country?,Unhappy
+India_132,Unknown,How happy are people in your country?,Unhappy
+Niger_133,Unknown,How happy are people in your country?,Unhappy
+Uganda_134,Unknown,How happy are people in your country?,Unhappy
+Benin_135,Unknown,How happy are people in your country?,Unhappy
+Sudan_136,Unknown,How happy are people in your country?,Unhappy
+Ukraine_137,Unknown,How happy are people in your country?,Unhappy
+Togo_138,Unknown,How happy are people in your country?,Unhappy
+Guinea_139,Unknown,How happy are people in your country?,Unhappy
+Lesotho_140,Unknown,How happy are people in your country?,Unhappy
+Angola_141,Unknown,How happy are people in your country?,Unhappy
+Madagascar_142,Unknown,How happy are people in your country?,Unhappy
+Zimbabwe_143,Unknown,How happy are people in your country?,Unhappy
+Afghanistan_144,Unknown,How happy are people in your country?,Unhappy
+Botswana_145,Unknown,How happy are people in your country?,Unhappy
+Malawi_146,Unknown,How happy are people in your country?,Unhappy
+Haiti_147,Unknown,How happy are people in your country?,Unhappy
+Liberia_148,Unknown,How happy are people in your country?,Unhappy
+Syria_149,Unknown,How happy are people in your country?,Unhappy
+Rwanda_150,Unknown,How happy are people in your country?,Unhappy
+Yemen_151,Unknown,How happy are people in your country?,Unhappy
+Tanzania_152,Unknown,How happy are people in your country?,Unhappy
+South Sudan_153,Unknown,How happy are people in your country?,Unhappy
+Central African Republic_154,Unknown,How happy are people in your country?,Unhappy
+Burundi_155,Unknown,How happy are people in your country?,Unhappy
+Switzerland_0,Western Europe,How happy are people in your country?,Very Happy
+Iceland_1,Western Europe,How happy are people in your country?,Very Happy
+Denmark_2,Western Europe,How happy are people in your country?,Very Happy
+Norway_3,Western Europe,How happy are people in your country?,Very Happy
+Canada_4,North America,How happy are people in your country?,Very Happy
+Finland_5,Western Europe,How happy are people in your country?,Very Happy
+Netherlands_6,Western Europe,How happy are people in your country?,Very Happy
+Sweden_7,Western Europe,How happy are people in your country?,Very Happy
+New Zealand_8,Australia and New Zealand,How happy are people in your country?,Very Happy
+Australia_9,Australia and New Zealand,How happy are people in your country?,Very Happy
+Israel_10,Middle East and Northern Africa,How happy are people in your country?,Very Happy
+Costa Rica_11,Latin America and Caribbean,How happy are people in your country?,Very Happy
+Austria_12,Western Europe,How happy are people in your country?,Very Happy
+Mexico_13,Latin America and Caribbean,How happy are people in your country?,Very Happy
+United States_14,North America,How happy are people in your country?,Very Happy
+Brazil_15,Latin America and Caribbean,How happy are people in your country?,Happy
+Luxembourg_16,Western Europe,How happy are people in your country?,Happy
+Ireland_17,Western Europe,How happy are people in your country?,Happy
+Belgium_18,Western Europe,How happy are people in your country?,Happy
+United Arab Emirates_19,Middle East and Northern Africa,How happy are people in your country?,Happy
+United Kingdom_20,Western Europe,How happy are people in your country?,Happy
+Oman_21,Middle East and Northern Africa,How happy are people in your country?,Happy
+Venezuela_22,Latin America and Caribbean,How happy are people in your country?,Happy
+Singapore_23,Southeastern Asia,How happy are people in your country?,Happy
+Panama_24,Latin America and Caribbean,How happy are people in your country?,Happy
+Germany_25,Western Europe,How happy are people in your country?,Happy
+Chile_26,Latin America and Caribbean,How happy are people in your country?,Happy
+Qatar_27,Middle East and Northern Africa,How happy are people in your country?,Happy
+France_28,Western Europe,How happy are people in your country?,Happy
+Argentina_29,Latin America and Caribbean,How happy are people in your country?,Happy
+Czech Republic_30,Central and Eastern Europe,How happy are people in your country?,Happy
+Uruguay_31,Latin America and Caribbean,How happy are people in your country?,Happy
+Colombia_32,Latin America and Caribbean,How happy are people in your country?,Happy
+Thailand_33,Southeastern Asia,How happy are people in your country?,Happy
+Saudi Arabia_34,Middle East and Northern Africa,How happy are people in your country?,Happy
+Spain_35,Western Europe,How happy are people in your country?,Happy
+Malta_36,Western Europe,How happy are people in your country?,Happy
+Taiwan_37,Eastern Asia,How happy are people in your country?,Happy
+Kuwait_38,Middle East and Northern Africa,How happy are people in your country?,Happy
+Suriname_39,Latin America and Caribbean,How happy are people in your country?,Happy
+Trinidad and Tobago_40,Latin America and Caribbean,How happy are people in your country?,Happy
+El Salvador_41,Latin America and Caribbean,How happy are people in your country?,Happy
+Guatemala_42,Latin America and Caribbean,How happy are people in your country?,Happy
+Uzbekistan_43,Central and Eastern Europe,How happy are people in your country?,Happy
+Slovakia_44,Central and Eastern Europe,How happy are people in your country?,Neutral
+Japan_45,Eastern Asia,How happy are people in your country?,Neutral
+South Korea_46,Eastern Asia,How happy are people in your country?,Neutral
+Ecuador_47,Latin America and Caribbean,How happy are people in your country?,Neutral
+Bahrain_48,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Italy_49,Western Europe,How happy are people in your country?,Neutral
+Bolivia_50,Latin America and Caribbean,How happy are people in your country?,Neutral
+Moldova_51,Central and Eastern Europe,How happy are people in your country?,Neutral
+Paraguay_52,Latin America and Caribbean,How happy are people in your country?,Neutral
+Kazakhstan_53,Central and Eastern Europe,How happy are people in your country?,Neutral
+Slovenia_54,Central and Eastern Europe,How happy are people in your country?,Neutral
+Lithuania_55,Central and Eastern Europe,How happy are people in your country?,Neutral
+Nicaragua_56,Latin America and Caribbean,How happy are people in your country?,Neutral
+Peru_57,Latin America and Caribbean,How happy are people in your country?,Neutral
+Belarus_58,Central and Eastern Europe,How happy are people in your country?,Neutral
+Poland_59,Central and Eastern Europe,How happy are people in your country?,Neutral
+Malaysia_60,Southeastern Asia,How happy are people in your country?,Neutral
+Croatia_61,Central and Eastern Europe,How happy are people in your country?,Neutral
+Libya_62,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Russia_63,Central and Eastern Europe,How happy are people in your country?,Neutral
+Jamaica_64,Latin America and Caribbean,How happy are people in your country?,Neutral
+North Cyprus_65,Western Europe,How happy are people in your country?,Neutral
+Cyprus_66,Western Europe,How happy are people in your country?,Neutral
+Algeria_67,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Kosovo_68,Central and Eastern Europe,How happy are people in your country?,Neutral
+Turkmenistan_69,Central and Eastern Europe,How happy are people in your country?,Neutral
+Mauritius_70,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Hong Kong_71,Eastern Asia,How happy are people in your country?,Neutral
+Estonia_72,Central and Eastern Europe,How happy are people in your country?,Neutral
+Indonesia_73,Southeastern Asia,How happy are people in your country?,Neutral
+Vietnam_74,Southeastern Asia,How happy are people in your country?,Neutral
+Turkey_75,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Kyrgyzstan_76,Central and Eastern Europe,How happy are people in your country?,Neutral
+Nigeria_77,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Bhutan_78,Southern Asia,How happy are people in your country?,Neutral
+Azerbaijan_79,Central and Eastern Europe,How happy are people in your country?,Neutral
+Pakistan_80,Southern Asia,How happy are people in your country?,Neutral
+Jordan_81,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Montenegro_82,Central and Eastern Europe,How happy are people in your country?,Neutral
+China_83,Eastern Asia,How happy are people in your country?,Neutral
+Zambia_84,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Romania_85,Central and Eastern Europe,How happy are people in your country?,Neutral
+Serbia_86,Central and Eastern Europe,How happy are people in your country?,Neutral
+Portugal_87,Western Europe,How happy are people in your country?,Neutral
+Latvia_88,Central and Eastern Europe,How happy are people in your country?,Neutral
+Philippines_89,Southeastern Asia,How happy are people in your country?,Neutral
+Somaliland region_90,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Morocco_91,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Macedonia_92,Central and Eastern Europe,How happy are people in your country?,Neutral
+Mozambique_93,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Albania_94,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Bosnia and Herzegovina_95,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Lesotho_96,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Dominican Republic_97,Latin America and Caribbean,How happy are people in your country?,Unhappy
+Laos_98,Southeastern Asia,How happy are people in your country?,Unhappy
+Mongolia_99,Eastern Asia,How happy are people in your country?,Unhappy
+Swaziland_100,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Greece_101,Western Europe,How happy are people in your country?,Unhappy
+Lebanon_102,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Hungary_103,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Honduras_104,Latin America and Caribbean,How happy are people in your country?,Unhappy
+Tajikistan_105,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Tunisia_106,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Palestinian Territories_107,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Bangladesh_108,Southern Asia,How happy are people in your country?,Unhappy
+Iran_109,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Ukraine_110,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Iraq_111,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+South Africa_112,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Ghana_113,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Zimbabwe_114,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Liberia_115,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+India_116,Southern Asia,How happy are people in your country?,Unhappy
+Sudan_117,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Haiti_118,Latin America and Caribbean,How happy are people in your country?,Unhappy
+Congo (Kinshasa)_119,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Nepal_120,Southern Asia,How happy are people in your country?,Unhappy
+Ethiopia_121,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Sierra Leone_122,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Mauritania_123,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Kenya_124,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Djibouti_125,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Armenia_126,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Botswana_127,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Myanmar_128,Southeastern Asia,How happy are people in your country?,Unhappy
+Georgia_129,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Malawi_130,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Sri Lanka_131,Southern Asia,How happy are people in your country?,Unhappy
+Cameroon_132,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Bulgaria_133,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Egypt_134,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Yemen_135,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Angola_136,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Mali_137,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Congo (Brazzaville)_138,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Comoros_139,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Uganda_140,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Senegal_141,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Gabon_142,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Niger_143,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Cambodia_144,Southeastern Asia,How happy are people in your country?,Unhappy
+Tanzania_145,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Madagascar_146,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Central African Republic_147,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Chad_148,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Guinea_149,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Ivory Coast_150,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Burkina Faso_151,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Afghanistan_152,Southern Asia,How happy are people in your country?,Unhappy
+Rwanda_153,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Benin_154,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Syria_155,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Burundi_156,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Togo_157,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Denmark_0,Western Europe,How happy are people in your country?,Very Happy
+Switzerland_1,Western Europe,How happy are people in your country?,Very Happy
+Iceland_2,Western Europe,How happy are people in your country?,Very Happy
+Norway_3,Western Europe,How happy are people in your country?,Very Happy
+Finland_4,Western Europe,How happy are people in your country?,Very Happy
+Canada_5,North America,How happy are people in your country?,Very Happy
+Netherlands_6,Western Europe,How happy are people in your country?,Very Happy
+New Zealand_7,Australia and New Zealand,How happy are people in your country?,Very Happy
+Australia_8,Australia and New Zealand,How happy are people in your country?,Very Happy
+Sweden_9,Western Europe,How happy are people in your country?,Very Happy
+Israel_10,Middle East and Northern Africa,How happy are people in your country?,Very Happy
+Austria_11,Western Europe,How happy are people in your country?,Very Happy
+United States_12,North America,How happy are people in your country?,Very Happy
+Costa Rica_13,Latin America and Caribbean,How happy are people in your country?,Very Happy
+Puerto Rico_14,Latin America and Caribbean,How happy are people in your country?,Very Happy
+Germany_15,Western Europe,How happy are people in your country?,Happy
+Brazil_16,Latin America and Caribbean,How happy are people in your country?,Happy
+Belgium_17,Western Europe,How happy are people in your country?,Happy
+Ireland_18,Western Europe,How happy are people in your country?,Happy
+Luxembourg_19,Western Europe,How happy are people in your country?,Happy
+Mexico_20,Latin America and Caribbean,How happy are people in your country?,Happy
+Singapore_21,Southeastern Asia,How happy are people in your country?,Happy
+United Kingdom_22,Western Europe,How happy are people in your country?,Happy
+Chile_23,Latin America and Caribbean,How happy are people in your country?,Happy
+Panama_24,Latin America and Caribbean,How happy are people in your country?,Happy
+Argentina_25,Latin America and Caribbean,How happy are people in your country?,Happy
+Czech Republic_26,Central and Eastern Europe,How happy are people in your country?,Happy
+United Arab Emirates_27,Middle East and Northern Africa,How happy are people in your country?,Happy
+Uruguay_28,Latin America and Caribbean,How happy are people in your country?,Happy
+Malta_29,Western Europe,How happy are people in your country?,Happy
+Colombia_30,Latin America and Caribbean,How happy are people in your country?,Happy
+France_31,Western Europe,How happy are people in your country?,Happy
+Thailand_32,Southeastern Asia,How happy are people in your country?,Happy
+Saudi Arabia_33,Middle East and Northern Africa,How happy are people in your country?,Happy
+Taiwan_34,Eastern Asia,How happy are people in your country?,Happy
+Qatar_35,Middle East and Northern Africa,How happy are people in your country?,Happy
+Spain_36,Western Europe,How happy are people in your country?,Happy
+Algeria_37,Middle East and Northern Africa,How happy are people in your country?,Happy
+Guatemala_38,Latin America and Caribbean,How happy are people in your country?,Happy
+Suriname_39,Latin America and Caribbean,How happy are people in your country?,Happy
+Kuwait_40,Middle East and Northern Africa,How happy are people in your country?,Happy
+Bahrain_41,Middle East and Northern Africa,How happy are people in your country?,Happy
+Trinidad and Tobago_42,Latin America and Caribbean,How happy are people in your country?,Happy
+Venezuela_43,Latin America and Caribbean,How happy are people in your country?,Happy
+Slovakia_44,Central and Eastern Europe,How happy are people in your country?,Happy
+El Salvador_45,Latin America and Caribbean,How happy are people in your country?,Happy
+Malaysia_46,Southeastern Asia,How happy are people in your country?,Happy
+Nicaragua_47,Latin America and Caribbean,How happy are people in your country?,Neutral
+Uzbekistan_48,Central and Eastern Europe,How happy are people in your country?,Neutral
+Italy_49,Western Europe,How happy are people in your country?,Neutral
+Ecuador_50,Latin America and Caribbean,How happy are people in your country?,Neutral
+Belize_51,Latin America and Caribbean,How happy are people in your country?,Neutral
+Japan_52,Eastern Asia,How happy are people in your country?,Neutral
+Kazakhstan_53,Central and Eastern Europe,How happy are people in your country?,Neutral
+Moldova_54,Central and Eastern Europe,How happy are people in your country?,Neutral
+Russia_55,Central and Eastern Europe,How happy are people in your country?,Neutral
+Poland_56,Central and Eastern Europe,How happy are people in your country?,Neutral
+South Korea_57,Eastern Asia,How happy are people in your country?,Neutral
+Bolivia_58,Latin America and Caribbean,How happy are people in your country?,Neutral
+Lithuania_59,Central and Eastern Europe,How happy are people in your country?,Neutral
+Belarus_60,Central and Eastern Europe,How happy are people in your country?,Neutral
+North Cyprus_61,Western Europe,How happy are people in your country?,Neutral
+Slovenia_62,Central and Eastern Europe,How happy are people in your country?,Neutral
+Peru_63,Latin America and Caribbean,How happy are people in your country?,Neutral
+Turkmenistan_64,Central and Eastern Europe,How happy are people in your country?,Neutral
+Mauritius_65,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Libya_66,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Latvia_67,Central and Eastern Europe,How happy are people in your country?,Neutral
+Cyprus_68,Western Europe,How happy are people in your country?,Neutral
+Paraguay_69,Latin America and Caribbean,How happy are people in your country?,Neutral
+Romania_70,Central and Eastern Europe,How happy are people in your country?,Neutral
+Estonia_71,Central and Eastern Europe,How happy are people in your country?,Neutral
+Jamaica_72,Latin America and Caribbean,How happy are people in your country?,Neutral
+Croatia_73,Central and Eastern Europe,How happy are people in your country?,Neutral
+Hong Kong_74,Eastern Asia,How happy are people in your country?,Neutral
+Somalia_75,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Kosovo_76,Central and Eastern Europe,How happy are people in your country?,Neutral
+Turkey_77,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Indonesia_78,Southeastern Asia,How happy are people in your country?,Neutral
+Jordan_79,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Azerbaijan_80,Central and Eastern Europe,How happy are people in your country?,Neutral
+Philippines_81,Southeastern Asia,How happy are people in your country?,Neutral
+China_82,Eastern Asia,How happy are people in your country?,Neutral
+Bhutan_83,Southern Asia,How happy are people in your country?,Neutral
+Kyrgyzstan_84,Central and Eastern Europe,How happy are people in your country?,Neutral
+Serbia_85,Central and Eastern Europe,How happy are people in your country?,Neutral
+Bosnia and Herzegovina_86,Central and Eastern Europe,How happy are people in your country?,Neutral
+Montenegro_87,Central and Eastern Europe,How happy are people in your country?,Neutral
+Dominican Republic_88,Latin America and Caribbean,How happy are people in your country?,Neutral
+Morocco_89,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Hungary_90,Central and Eastern Europe,How happy are people in your country?,Neutral
+Pakistan_91,Southern Asia,How happy are people in your country?,Neutral
+Lebanon_92,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Portugal_93,Western Europe,How happy are people in your country?,Neutral
+Macedonia_94,Central and Eastern Europe,How happy are people in your country?,Neutral
+Vietnam_95,Southeastern Asia,How happy are people in your country?,Neutral
+Somaliland Region_96,Sub-Saharan Africa,How happy are people in your country?,Neutral
+Tunisia_97,Middle East and Northern Africa,How happy are people in your country?,Neutral
+Greece_98,Western Europe,How happy are people in your country?,Neutral
+Tajikistan_99,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Mongolia_100,Eastern Asia,How happy are people in your country?,Unhappy
+Laos_101,Southeastern Asia,How happy are people in your country?,Unhappy
+Nigeria_102,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Honduras_103,Latin America and Caribbean,How happy are people in your country?,Unhappy
+Iran_104,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Zambia_105,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Nepal_106,Southern Asia,How happy are people in your country?,Unhappy
+Palestinian Territories_107,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Albania_108,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Bangladesh_109,Southern Asia,How happy are people in your country?,Unhappy
+Sierra Leone_110,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Iraq_111,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Namibia_112,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Cameroon_113,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Ethiopia_114,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+South Africa_115,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Sri Lanka_116,Southern Asia,How happy are people in your country?,Unhappy
+India_117,Southern Asia,How happy are people in your country?,Unhappy
+Myanmar_118,Southeastern Asia,How happy are people in your country?,Unhappy
+Egypt_119,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Armenia_120,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Kenya_121,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Ukraine_122,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Ghana_123,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Congo (Kinshasa)_124,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Georgia_125,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Congo (Brazzaville)_126,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Senegal_127,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Bulgaria_128,Central and Eastern Europe,How happy are people in your country?,Unhappy
+Mauritania_129,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Zimbabwe_130,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Malawi_131,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Sudan_132,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Gabon_133,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Mali_134,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Haiti_135,Latin America and Caribbean,How happy are people in your country?,Unhappy
+Botswana_136,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Comoros_137,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Ivory Coast_138,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Cambodia_139,Southeastern Asia,How happy are people in your country?,Unhappy
+Angola_140,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Niger_141,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+South Sudan_142,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Chad_143,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Burkina Faso_144,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Uganda_145,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Yemen_146,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Madagascar_147,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Tanzania_148,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Liberia_149,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Guinea_150,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Rwanda_151,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Benin_152,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Afghanistan_153,Southern Asia,How happy are people in your country?,Unhappy
+Togo_154,Sub-Saharan Africa,How happy are people in your country?,Unhappy
+Syria_155,Middle East and Northern Africa,How happy are people in your country?,Unhappy
+Burundi_156,Sub-Saharan Africa,How happy are people in your country?,Unhappy
